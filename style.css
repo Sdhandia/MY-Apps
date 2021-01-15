@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+.line {
+    height: 10px;
+    background-color: crimson;
+    width: 200px;
+    margin: auto;
+border-radius: 50px;
+}
+img {
+    transition: transform .1s;
+}
+img:hover{
+    transform: scale(0.5);
+
+}
